@@ -1,6 +1,5 @@
 /*
- * Danor Sinai, ID: 311156616;
- * Sahar Oz, ID:311285514;
+ * Author:Danor Sinai
  */
 
 #include <pthread.h>
